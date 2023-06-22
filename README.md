@@ -1,0 +1,1 @@
+# bag-shopping_app_animations
